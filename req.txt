@@ -1,0 +1,18 @@
+# PyTorch and TorchVision
+# Install with GPU support using:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image processing
+opencv-contrib-python>=4.8.0
+Pillow>=10.0.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
