@@ -1,5 +1,32 @@
-# -LETVLER-yolo-hackathon
-> Python scripts and utilities for offroad semantic segmentation (training, evaluation/visualization, and mask colorization). The repository contains several domain-specific utilities and artifacts but several critical runtime pieces are incomplete or missing, so it is not immediately runnable.
+<p align="center">
+  <img src="./.github/readme-assets/signal.gif" alt="Animated signal / product visual for -LETVLER-yolo-hackathon" width="100%" />
+</p>
+
+<h1 align="center">-LETVLER-yolo-hackathon</h1>
+
+<p align="center"><strong>Python scripts and utilities for offroad semantic segmentation (training, evaluation/visualization, and mask colorization). The repository contains several domain-specific utilities and artifacts but several critical runtime pieces are incomplete or missing, so it is not immediately runnable.</strong></p>
+
+<p align="center"><code>REPO//SIGNAL</code> · <code>SIGNAL / PRODUCT</code> · <code>LOOPING README EXPERIENCE</code></p>
+
+## Live signal
+
+| Lens | Readout |
+| --- | --- |
+| Portfolio lane | **SIGNAL / PRODUCT** |
+| Code surface | **17** tracked files observed |
+| Primary materials | **Python, Markdown** |
+| Verification | **1** test-related files observed |
+
+> A moving scan of the project surface. The animated frame above is a lightweight visual signature; the sections below remain the source of truth for implementation details.
+
+## Motion map
+
+`SIGNAL` → `SHAPE` → `RELEASE`
+
+Use the animated banner as the first signal, then move into the implementation dossier. The recommended next step is to verify the documented setup command against the repository scripts before extending the project.
+
+<details open>
+<summary><strong>Open the full project dossier</strong></summary>
 
 ## Overview
 A small collection of Python scripts focused on semantic segmentation for an Offroad_Segmentation dataset. The codebase includes training/validation scripts, mask conversion and visualization utilities, and some saved artifacts (images, a checkpoint file). Several important functions and the model definition are incomplete or absent.
@@ -89,3 +116,9 @@ Contributions that help make the repository reproducible and runnable are welcom
 To begin contributing, review the scripts and artifacts listed in Getting started, open issues describing fixes or improvements, and submit pull requests with focused changes. (Repository does not include contribution templates; follow standard GitHub issue/PR flow.)
 
 (There is no license file present in the repository metadata; no license statement is included here.)
+
+</details>
+
+---
+
+<p align="center"><sub>README motion system · visual layer by RepoSignal · implementation details remain project-specific</sub></p>
